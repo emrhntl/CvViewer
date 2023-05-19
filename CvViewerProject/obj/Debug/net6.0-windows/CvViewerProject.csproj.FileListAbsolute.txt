@@ -1,0 +1,197 @@
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.exe
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.deps.json
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.runtimeconfig.json
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.LogIn.resources
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.SignUp.resources
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\refint\CvViewerProject.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\ref\CvViewerProject.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Administrator\source\repos\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.exe
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.deps.json
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.LogIn.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.SignUp.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\refint\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\ref\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.exe
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.deps.json
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.LogIn.resources
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.SignUp.resources
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\refint\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\ref\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.exe
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.deps.json
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.LogIn.resources
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.SignUp.resources
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\refint\CvViewerProject.dll
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\xx\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\ref\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.exe
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.deps.json
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.runtimeconfig.json
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.LogIn.resources
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.SignUp.resources
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.csproj.CopyComplete
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\refint\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.pdb
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\ref\CvViewerProject.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.CompanyMenu.resources
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.PersonMenu.resources
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.CommunicationAdd.resources
+C:\Users\Administrator\Desktop\CvViewerProject - Kopya\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.Search.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.CommunicationAdd.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.CompanyMenu.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.PersonMenu.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.Properties.Resources.resources
+C:\Users\Administrator\Desktop\CvViewerProject\CvViewerProject\obj\Debug\net6.0-windows\CvViewerProject.Search.resources
